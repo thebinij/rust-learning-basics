@@ -24,7 +24,6 @@ fn print_course_overview<T: Course>(course: T) {
    println!("{}", course.get_overview());
 }
 
-
 struct Workshop {
     title: String,
     instructor: String,
