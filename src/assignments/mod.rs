@@ -1,2 +1,3 @@
-pub mod assigment_one;
-pub mod assigment_two;
+pub mod assignment_one;
+pub mod assignment_two;
+pub mod assignment_three;

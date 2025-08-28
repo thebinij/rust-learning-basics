@@ -1,6 +1,5 @@
-mod projects;
-
+mod assignments;
 fn main() {
-    projects::project_one::main()
+    assignments::assignment_three::run()
 
 }
