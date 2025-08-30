@@ -1,5 +1,5 @@
-mod assignments;
-fn main() {
-    assignments::assignment_three::run()
+mod learning;
 
+fn main() {
+    learning::lifetimes::run()
 }

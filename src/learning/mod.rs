@@ -3,3 +3,4 @@ pub mod iterators;
 pub mod macros;
 pub mod traits;
 pub mod closures;
+pub mod lifetimes;
