@@ -1,5 +1,4 @@
-mod learning;
-
+mod projects;
 fn main() {
-    learning::lifetimes::run()
+    projects::project_two::main();
 }
