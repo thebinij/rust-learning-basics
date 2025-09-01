@@ -1,4 +1,5 @@
-mod projects;
+mod advanced_rust;
+
 fn main() {
-    projects::project_two::main();
+    advanced_rust::generics_traits::main()
 }
